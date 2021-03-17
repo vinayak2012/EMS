@@ -78,8 +78,13 @@ Important Points:
 10.	Restful microservice for searching an employee based on Name or address
 
 11. Docker Commands:-
+
      Docker Image - docker build -t employee_management -f ./Dockerfile.dockerfile .
+     
      Docker Container - docker run -d -p 5000:5000 employee_management
+     
      Docker compose file - docker-compose up --build -d
      
-12. 
+     
+
+
