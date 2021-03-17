@@ -85,6 +85,24 @@ Important Points:
      
      Docker compose file - docker-compose up --build -d
      
+ Screenshots:-
      
+ Home Page
+ ![Screenshot (37)](https://user-images.githubusercontent.com/33121655/111460179-ac673100-8741-11eb-875b-c2627a6a1c5d.png)
+
+
+ Login Page
+ ![Screenshot (38)](https://user-images.githubusercontent.com/33121655/111460212-b721c600-8741-11eb-9ada-0554357dc2e1.png)
+
+ 
+ Employee Master Screen
+ ![Screenshot (41)](https://user-images.githubusercontent.com/33121655/111460298-d4569480-8741-11eb-86c4-b6bea74ea173.png)
+
+
+ Password Reset Mail
+ ![Screenshot (42)](https://user-images.githubusercontent.com/33121655/111460375-ec2e1880-8741-11eb-9c8c-65d63d7658cd.png)
+ 
+ Employee Account Page
+ ![Screenshot (43)](https://user-images.githubusercontent.com/33121655/111460430-f9e39e00-8741-11eb-86cc-a900f10e9f0e.png)
 
 
