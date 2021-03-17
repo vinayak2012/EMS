@@ -88,21 +88,31 @@ Important Points:
  Screenshots:-
      
  Home Page
- ![Screenshot (37)](https://user-images.githubusercontent.com/33121655/111460179-ac673100-8741-11eb-875b-c2627a6a1c5d.png)
+ ![Screenshot (38)](https://user-images.githubusercontent.com/33121655/111460922-96a63b80-8742-11eb-9688-6ac05d8f9426.png)
+
 
 
  Login Page
- ![Screenshot (38)](https://user-images.githubusercontent.com/33121655/111460212-b721c600-8741-11eb-9ada-0554357dc2e1.png)
+ ![Screenshot (39)](https://user-images.githubusercontent.com/33121655/111460956-a0c83a00-8742-11eb-9fa1-e438023cf9d1.png)
+
 
  
  Employee Master Screen
- ![Screenshot (41)](https://user-images.githubusercontent.com/33121655/111460298-d4569480-8741-11eb-86c4-b6bea74ea173.png)
+ ![Screenshot (42)](https://user-images.githubusercontent.com/33121655/111460976-a7ef4800-8742-11eb-8a09-22636c451610.png)
+
 
 
  Password Reset Mail
- ![Screenshot (42)](https://user-images.githubusercontent.com/33121655/111460375-ec2e1880-8741-11eb-9c8c-65d63d7658cd.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/33121655/111461013-b3427380-8742-11eb-904c-0326305b2cd8.png)
+ 
+ 
  
  Employee Account Page
- ![Screenshot (43)](https://user-images.githubusercontent.com/33121655/111460430-f9e39e00-8741-11eb-86cc-a900f10e9f0e.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/33121655/111461040-ba698180-8742-11eb-80d5-6ceae1fe9c6d.png)
+
+
+
+ Docker Container
+ ![Screenshot (46)](https://user-images.githubusercontent.com/33121655/111461191-e8e75c80-8742-11eb-961d-8e3fa119d3b2.png)
 
 
