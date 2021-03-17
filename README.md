@@ -30,5 +30,17 @@ Roles and permissions:-
     
     e) Can search an employee on basis of name(full name = first name + last name) or address.
      Also, both of these need to be exact same as that in database.
-     
+    
+Deliverables:
+
+1.	Web application developed using flask and Jinja
+
+2.	Restful service developed using flask restful
+
+3.	URL definitions of the scenarios (request/response JSONs)
+
+4.	Docker images to be built using Dockerfile
+ 
+5.	A docker-compose file for booting the applications from a single file
+
      
