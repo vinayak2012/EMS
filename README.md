@@ -88,31 +88,35 @@ Important Points:
  Screenshots:-
      
  Home Page
+ 
  ![Screenshot (38)](https://user-images.githubusercontent.com/33121655/111460922-96a63b80-8742-11eb-9688-6ac05d8f9426.png)
 
 
-
  Login Page
+ 
  ![Screenshot (39)](https://user-images.githubusercontent.com/33121655/111460956-a0c83a00-8742-11eb-9fa1-e438023cf9d1.png)
 
 
- 
  Employee Master Screen
+ 
  ![Screenshot (42)](https://user-images.githubusercontent.com/33121655/111460976-a7ef4800-8742-11eb-8a09-22636c451610.png)
 
 
+Password Reset Mail
 
- Password Reset Mail
 ![Screenshot (43)](https://user-images.githubusercontent.com/33121655/111461013-b3427380-8742-11eb-904c-0326305b2cd8.png)
  
  
- 
- Employee Account Page
+Employee Account Page
+
 ![Screenshot (44)](https://user-images.githubusercontent.com/33121655/111461040-ba698180-8742-11eb-80d5-6ceae1fe9c6d.png)
 
 
+Docker Container
 
- Docker Container
  ![Screenshot (46)](https://user-images.githubusercontent.com/33121655/111461191-e8e75c80-8742-11eb-961d-8e3fa119d3b2.png)
 
 
+API for searching an employee
+
+![Screenshot (48)](https://user-images.githubusercontent.com/33121655/111462036-f05b3580-8743-11eb-8aaa-679f9e3da564.png)
