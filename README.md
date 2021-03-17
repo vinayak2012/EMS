@@ -116,7 +116,3 @@ Docker Container
 
  ![Screenshot (46)](https://user-images.githubusercontent.com/33121655/111461191-e8e75c80-8742-11eb-961d-8e3fa119d3b2.png)
 
-
-API for searching an employee
-
-![Screenshot (48)](https://user-images.githubusercontent.com/33121655/111462036-f05b3580-8743-11eb-8aaa-679f9e3da564.png)
