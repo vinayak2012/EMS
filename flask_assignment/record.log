@@ -1,0 +1,1090 @@
+2021-03-16 15:01:40,036 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 15:01:48,492 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 15:01:48] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 15:01:51,236 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 15:01:51] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 15:01:57,644 INFO assignment Thread-5 : Admin login into the software 
+2021-03-16 15:01:57,644 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 15:01:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 15:01:57,654 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 15:01:57] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-16 15:01:59,277 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 15:01:59] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 15:02:03,491 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 15:02:03,496 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 15:02:03] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-16 15:02:03,497 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 267
+2021-03-16 15:02:03,509 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 15:02:03] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-16 15:02:33,313 INFO assignment Thread-9 :  User was logged out 
+2021-03-16 15:02:33,317 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 15:02:33] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-16 15:02:33,322 INFO werkzeug Thread-11 : 127.0.0.1 - - [16/Mar/2021 15:02:33] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-16 15:12:09,542 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 15:12:10,720 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 15:12:10] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 15:12:16,438 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 15:12:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 15:12:16,452 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 15:12:16] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+2021-03-16 15:12:50,383 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 15:16:26,365 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 15:16:35,097 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 15:16:35] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+2021-03-16 15:16:36,735 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 15:16:36] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+2021-03-16 15:16:45,059 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 15:16:45] "[37mGET /change_password HTTP/1.1[0m" 200 -
+2021-03-16 15:17:01,033 INFO assignment Thread-6 : Vinayak changed password
+2021-03-16 15:17:01,033 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 15:17:01] "[32mPOST /change_password HTTP/1.1[0m" 302 -
+2021-03-16 15:17:01,094 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 15:17:01] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-16 15:20:16,349 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 15:20:16] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-16 15:20:28,514 INFO assignment Thread-9 : Vinayak updated his/her profile
+2021-03-16 15:20:28,516 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 15:20:28] "[32mPOST /account HTTP/1.1[0m" 302 -
+2021-03-16 15:20:28,524 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 15:20:28] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-16 15:28:00,952 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 15:28:07,065 INFO assignment Thread-3 : Current User was logged out 
+2021-03-16 15:28:07,091 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 15:28:07] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-16 15:28:07,109 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 15:28:07] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-16 15:28:10,453 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 15:28:10] "[37mGET /register HTTP/1.1[0m" 200 -
+2021-03-16 15:28:32,487 INFO assignment Thread-6 : New employee registered with name Vinayak Gupta
+2021-03-16 15:28:32,489 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 15:28:32] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-03-16 15:28:32,498 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 15:28:32] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 15:46:39,946 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 19:11:04,275 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 19:11:04] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 21:30:41,515 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 21:30:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 21:30:41,530 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 21:30:41] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2021-03-16 21:30:41,532 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 21:30:41] "[36mGET /static/intro-bg.jpg HTTP/1.1[0m" 304 -
+2021-03-16 21:30:43,901 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 21:30:43] "[37mGET /register HTTP/1.1[0m" 200 -
+2021-03-16 21:31:27,508 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 21:31:27] "[37mPOST /register HTTP/1.1[0m" 200 -
+2021-03-16 21:31:48,235 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 21:31:48] "[37mPOST /register HTTP/1.1[0m" 200 -
+2021-03-16 21:32:02,473 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 21:32:02] "[37mPOST /register HTTP/1.1[0m" 200 -
+2021-03-16 21:32:16,404 INFO assignment Thread-10 : New employee registered with name Vinayak Gupta
+2021-03-16 21:32:16,406 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 21:32:16] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-03-16 21:32:16,436 INFO werkzeug Thread-11 : 127.0.0.1 - - [16/Mar/2021 21:32:16] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 21:32:18,888 INFO werkzeug Thread-12 : 127.0.0.1 - - [16/Mar/2021 21:32:18] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 21:32:28,421 INFO assignment Thread-13 : Admin login into the software 
+2021-03-16 21:32:28,424 INFO werkzeug Thread-13 : 127.0.0.1 - - [16/Mar/2021 21:32:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 21:32:28,438 INFO werkzeug Thread-14 : 127.0.0.1 - - [16/Mar/2021 21:32:28] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-16 21:32:30,563 INFO werkzeug Thread-15 : 127.0.0.1 - - [16/Mar/2021 21:32:30] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:32:40,466 DEBUG urllib3.connectionpool Thread-16 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:32:40,471 INFO werkzeug Thread-18 : 127.0.0.1 - - [16/Mar/2021 21:32:40] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-16 21:32:40,472 DEBUG urllib3.connectionpool Thread-16 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 200 1058
+2021-03-16 21:32:40,487 INFO werkzeug Thread-16 : 127.0.0.1 - - [16/Mar/2021 21:32:40] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:41:39,896 INFO assignment Thread-19 : Current User was logged out 
+2021-03-16 21:41:39,909 INFO werkzeug Thread-19 : 127.0.0.1 - - [16/Mar/2021 21:41:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-16 21:41:39,920 INFO werkzeug Thread-20 : 127.0.0.1 - - [16/Mar/2021 21:41:39] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-16 21:56:14,467 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 21:56:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 21:56:16,235 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 21:56:16] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 21:56:24,051 INFO assignment Thread-5 : Admin login into the software 
+2021-03-16 21:56:24,054 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 21:56:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 21:56:24,070 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 21:56:24] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-16 21:56:26,324 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 21:56:26] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:34,975 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:34,977 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 21:56:34] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 21:56:34,977 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-16 21:56:34,979 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 21:56:34] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:34,989 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 21:56:34] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:37,542 DEBUG urllib3.connectionpool Thread-11 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:37,543 INFO werkzeug Thread-13 : 127.0.0.1 - - [16/Mar/2021 21:56:37] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:37,544 DEBUG urllib3.connectionpool Thread-11 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:37,545 INFO werkzeug Thread-11 : 127.0.0.1 - - [16/Mar/2021 21:56:37] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:37,558 INFO werkzeug Thread-12 : 127.0.0.1 - - [16/Mar/2021 21:56:37] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:38,587 DEBUG urllib3.connectionpool Thread-14 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:38,589 INFO werkzeug Thread-16 : 127.0.0.1 - - [16/Mar/2021 21:56:38] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:38,589 DEBUG urllib3.connectionpool Thread-14 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:38,591 INFO werkzeug Thread-14 : 127.0.0.1 - - [16/Mar/2021 21:56:38] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:38,604 INFO werkzeug Thread-15 : 127.0.0.1 - - [16/Mar/2021 21:56:38] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:39,591 DEBUG urllib3.connectionpool Thread-17 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:39,594 INFO werkzeug Thread-19 : 127.0.0.1 - - [16/Mar/2021 21:56:39] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:39,595 DEBUG urllib3.connectionpool Thread-17 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:39,599 INFO werkzeug Thread-17 : 127.0.0.1 - - [16/Mar/2021 21:56:39] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:39,620 INFO werkzeug Thread-18 : 127.0.0.1 - - [16/Mar/2021 21:56:39] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:40,480 DEBUG urllib3.connectionpool Thread-20 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:40,483 INFO werkzeug Thread-22 : 127.0.0.1 - - [16/Mar/2021 21:56:40] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:40,484 DEBUG urllib3.connectionpool Thread-20 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:40,486 INFO werkzeug Thread-20 : 127.0.0.1 - - [16/Mar/2021 21:56:40] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:40,500 INFO werkzeug Thread-21 : 127.0.0.1 - - [16/Mar/2021 21:56:40] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:41,218 DEBUG urllib3.connectionpool Thread-23 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:41,219 INFO werkzeug Thread-25 : 127.0.0.1 - - [16/Mar/2021 21:56:41] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:41,220 DEBUG urllib3.connectionpool Thread-23 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:41,221 INFO werkzeug Thread-23 : 127.0.0.1 - - [16/Mar/2021 21:56:41] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:41,233 INFO werkzeug Thread-24 : 127.0.0.1 - - [16/Mar/2021 21:56:41] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:41,901 DEBUG urllib3.connectionpool Thread-26 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:41,903 INFO werkzeug Thread-28 : 127.0.0.1 - - [16/Mar/2021 21:56:41] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:41,904 DEBUG urllib3.connectionpool Thread-26 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:41,905 INFO werkzeug Thread-26 : 127.0.0.1 - - [16/Mar/2021 21:56:41] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:41,917 INFO werkzeug Thread-27 : 127.0.0.1 - - [16/Mar/2021 21:56:41] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:42,357 DEBUG urllib3.connectionpool Thread-29 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:42,359 INFO werkzeug Thread-31 : 127.0.0.1 - - [16/Mar/2021 21:56:42] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:42,359 DEBUG urllib3.connectionpool Thread-29 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:42,361 INFO werkzeug Thread-29 : 127.0.0.1 - - [16/Mar/2021 21:56:42] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:42,373 INFO werkzeug Thread-30 : 127.0.0.1 - - [16/Mar/2021 21:56:42] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:42,731 DEBUG urllib3.connectionpool Thread-32 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:42,733 INFO werkzeug Thread-34 : 127.0.0.1 - - [16/Mar/2021 21:56:42] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:42,734 DEBUG urllib3.connectionpool Thread-32 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:42,737 INFO werkzeug Thread-32 : 127.0.0.1 - - [16/Mar/2021 21:56:42] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:42,754 INFO werkzeug Thread-33 : 127.0.0.1 - - [16/Mar/2021 21:56:42] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:43,087 DEBUG urllib3.connectionpool Thread-35 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:43,090 INFO werkzeug Thread-37 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:43,091 DEBUG urllib3.connectionpool Thread-35 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:43,093 INFO werkzeug Thread-35 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:43,110 INFO werkzeug Thread-36 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:43,455 DEBUG urllib3.connectionpool Thread-38 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:43,457 INFO werkzeug Thread-40 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:43,458 DEBUG urllib3.connectionpool Thread-38 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:43,460 INFO werkzeug Thread-38 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:43,472 INFO werkzeug Thread-39 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:43,851 DEBUG urllib3.connectionpool Thread-41 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:43,852 INFO werkzeug Thread-43 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:43,853 DEBUG urllib3.connectionpool Thread-41 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:43,855 INFO werkzeug Thread-41 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:43,871 INFO werkzeug Thread-42 : 127.0.0.1 - - [16/Mar/2021 21:56:43] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 21:56:53,511 DEBUG urllib3.connectionpool Thread-44 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 21:56:53,514 INFO werkzeug Thread-46 : 127.0.0.1 - - [16/Mar/2021 21:56:53] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 21:56:53,515 DEBUG urllib3.connectionpool Thread-44 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 21:56:53,518 INFO werkzeug Thread-44 : 127.0.0.1 - - [16/Mar/2021 21:56:53] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 21:56:53,532 INFO werkzeug Thread-45 : 127.0.0.1 - - [16/Mar/2021 21:56:53] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:00:54,257 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:00:54,329 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:01:07,195 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 22:01:07] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:01:10,714 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:01:10,716 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 22:01:10] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 401 -
+2021-03-16 22:01:10,718 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 401 19
+2021-03-16 22:01:10,721 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 22:01:10] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:01:10,733 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 22:01:10] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:01:12,376 DEBUG urllib3.connectionpool Thread-7 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:01:12,379 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 22:01:12] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-16 22:01:12,380 DEBUG urllib3.connectionpool Thread-7 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-16 22:01:12,383 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 22:01:12] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:01:12,401 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 22:01:12] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:01:16,192 DEBUG urllib3.connectionpool Thread-10 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:01:16,195 INFO werkzeug Thread-12 : 127.0.0.1 - - [16/Mar/2021 22:01:16] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-16 22:01:16,196 DEBUG urllib3.connectionpool Thread-10 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-16 22:01:16,198 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 22:01:16] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:01:16,207 INFO werkzeug Thread-11 : 127.0.0.1 - - [16/Mar/2021 22:01:16] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:03:24,753 INFO werkzeug Thread-13 : 127.0.0.1 - - [16/Mar/2021 22:03:24] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 22:04:07,734 INFO werkzeug Thread-14 : 127.0.0.1 - - [16/Mar/2021 22:04:07] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-16 22:06:17,653 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:06:17,736 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:07:30,300 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:07:30,368 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:07:34,075 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 22:07:34] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-16 22:07:35,864 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 22:07:35] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 22:07:43,390 INFO assignment Thread-5 : Admin login into the software 
+2021-03-16 22:07:43,393 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 22:07:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 22:07:43,408 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 22:07:43] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-16 22:07:44,755 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 22:07:44] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:07:48,993 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:07:48,995 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 22:07:48] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1[0m" 401 -
+2021-03-16 22:07:48,996 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1" 401 19
+2021-03-16 22:07:48,998 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 22:07:48] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:07:49,006 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 22:07:49] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:07:53,296 DEBUG urllib3.connectionpool Thread-11 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:07:53,299 INFO werkzeug Thread-13 : 127.0.0.1 - - [16/Mar/2021 22:07:53] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1[0m" 401 -
+2021-03-16 22:07:53,299 DEBUG urllib3.connectionpool Thread-11 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1" 401 19
+2021-03-16 22:07:53,303 INFO werkzeug Thread-11 : 127.0.0.1 - - [16/Mar/2021 22:07:53] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:07:53,312 INFO werkzeug Thread-12 : 127.0.0.1 - - [16/Mar/2021 22:07:53] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:07:56,301 DEBUG urllib3.connectionpool Thread-14 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:07:56,302 INFO werkzeug Thread-16 : 127.0.0.1 - - [16/Mar/2021 22:07:56] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1[0m" 401 -
+2021-03-16 22:07:56,303 DEBUG urllib3.connectionpool Thread-14 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1" 401 19
+2021-03-16 22:07:56,305 INFO werkzeug Thread-14 : 127.0.0.1 - - [16/Mar/2021 22:07:56] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:07:56,311 INFO werkzeug Thread-15 : 127.0.0.1 - - [16/Mar/2021 22:07:56] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:09:14,979 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:09:15,065 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:09:19,759 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 22:09:19] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:09:23,390 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:09:23,393 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 22:09:23] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1[0m" 401 -
+2021-03-16 22:09:23,394 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar?admin=SuperSecretPwd HTTP/1.1" 401 19
+2021-03-16 22:09:23,396 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 22:09:23] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:09:23,407 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 22:09:23] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:21:36,672 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:21:36,765 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:46:37,976 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:46:38,089 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:55:57,935 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:55:58,013 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:56:01,103 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 22:56:01] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:56:08,304 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:56:08,306 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 22:56:08] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 22:56:08,307 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-16 22:56:08,310 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 22:56:08] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:56:08,319 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 22:56:08] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:57:57,134 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:57:57,216 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 22:58:01,056 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 22:58:01] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:58:04,263 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 22:58:04,265 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 22:58:04] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-16 22:58:04,266 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-16 22:58:04,268 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 22:58:04] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 22:58:04,277 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 22:58:04] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 22:59:16,285 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 22:59:16,347 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 23:07:49,550 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 23:07:49] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 23:15:26,198 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 23:15:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 23:15:31,375 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 23:15:31] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 23:15:43,275 INFO assignment Thread-5 : Admin login into the software 
+2021-03-16 23:15:43,278 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 23:15:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 23:15:43,289 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 23:15:43] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-16 23:15:46,198 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 23:15:46] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:15:51,714 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 23:15:51,719 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 23:15:51] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 401 -
+2021-03-16 23:15:51,720 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 401 19
+2021-03-16 23:15:51,724 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 23:15:51] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 23:15:51,745 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 23:15:51] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:16:00,207 DEBUG urllib3.connectionpool Thread-12 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 23:16:00,210 INFO werkzeug Thread-13 : 127.0.0.1 - - [16/Mar/2021 23:16:00] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:16:00,211 DEBUG urllib3.connectionpool Thread-12 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-16 23:16:00,213 INFO werkzeug Thread-12 : 127.0.0.1 - - [16/Mar/2021 23:16:00] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 23:16:00,226 INFO werkzeug Thread-11 : 127.0.0.1 - - [16/Mar/2021 23:16:00] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:16:09,204 DEBUG urllib3.connectionpool Thread-14 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 23:16:09,209 INFO werkzeug Thread-16 : 127.0.0.1 - - [16/Mar/2021 23:16:09] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:16:09,210 DEBUG urllib3.connectionpool Thread-14 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-16 23:16:09,216 INFO werkzeug Thread-14 : 127.0.0.1 - - [16/Mar/2021 23:16:09] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 23:16:09,238 INFO werkzeug Thread-15 : 127.0.0.1 - - [16/Mar/2021 23:16:09] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:19:07,920 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 23:19:08,041 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 23:20:27,850 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 23:20:27,932 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 23:20:35,181 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 23:20:35,282 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 23:20:38,122 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 23:20:38] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:20:47,012 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 23:20:47,017 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 23:20:47] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:20:47,019 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-16 23:20:47,026 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 23:20:47] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-16 23:20:47,045 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 23:20:47] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:20:56,294 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 23:20:56] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 23:21:10,397 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 23:21:10] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:21:27,091 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 23:21:27] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:21:39,693 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 23:21:39] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:22:22,557 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 23:22:22,641 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 23:22:26,752 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 23:22:26] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:22:38,212 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 23:22:38] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-16 23:22:45,991 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 23:22:45] "[32mGET /employees HTTP/1.1[0m" 302 -
+2021-03-16 23:22:46,042 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 23:22:46] "[37mGET /login?next=%2Femployees HTTP/1.1[0m" 200 -
+2021-03-16 23:22:48,711 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 23:22:48] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 23:22:51,270 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 23:22:51] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 23:22:58,651 INFO assignment Thread-9 : Admin login into the software 
+2021-03-16 23:22:58,656 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 23:22:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 23:22:58,668 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 23:22:58] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-16 23:22:59,850 INFO werkzeug Thread-11 : 127.0.0.1 - - [16/Mar/2021 23:22:59] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:23:06,200 DEBUG urllib3.connectionpool Thread-12 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 23:23:06,205 INFO werkzeug Thread-14 : 127.0.0.1 - - [16/Mar/2021 23:23:06] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-16 23:23:06,207 DEBUG urllib3.connectionpool Thread-12 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 200 1058
+2021-03-16 23:23:06,223 INFO werkzeug Thread-12 : 127.0.0.1 - - [16/Mar/2021 23:23:06] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:58:56,512 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-16 23:58:56,602 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-16 23:59:04,363 INFO werkzeug Thread-3 : 127.0.0.1 - - [16/Mar/2021 23:59:04] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-16 23:59:08,886 INFO werkzeug Thread-4 : 127.0.0.1 - - [16/Mar/2021 23:59:08] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 23:59:09,441 INFO werkzeug Thread-5 : 127.0.0.1 - - [16/Mar/2021 23:59:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-16 23:59:11,572 INFO werkzeug Thread-6 : 127.0.0.1 - - [16/Mar/2021 23:59:11] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-16 23:59:18,357 INFO assignment Thread-7 : Admin login into the software 
+2021-03-16 23:59:18,361 INFO werkzeug Thread-7 : 127.0.0.1 - - [16/Mar/2021 23:59:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-16 23:59:18,375 INFO werkzeug Thread-8 : 127.0.0.1 - - [16/Mar/2021 23:59:18] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-16 23:59:20,249 INFO werkzeug Thread-9 : 127.0.0.1 - - [16/Mar/2021 23:59:20] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-16 23:59:25,743 DEBUG urllib3.connectionpool Thread-10 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-16 23:59:25,750 INFO werkzeug Thread-12 : 127.0.0.1 - - [16/Mar/2021 23:59:25] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-16 23:59:25,751 DEBUG urllib3.connectionpool Thread-10 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-16 23:59:25,770 INFO werkzeug Thread-10 : 127.0.0.1 - - [16/Mar/2021 23:59:25] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:04:14,799 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:04:14,868 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:04:24,867 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:04:24,871 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:04:24] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:04:24,873 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:04:24,876 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:04:24] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 00:04:24,937 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:04:24] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:04:31,464 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:04:31,466 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 00:04:31] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:04:31,467 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:04:31,469 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 00:04:31] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 00:04:31,478 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:04:31] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:05:45,642 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 00:05:45] "[33mGET /employees/VinayakGupta HTTP/1.1[0m" 404 -
+2021-03-17 00:05:57,725 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 00:05:57] "[31m[1mGET /search/VinayakGupta HTTP/1.1[0m" 401 -
+2021-03-17 00:06:13,286 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 00:06:13] "[31m[1mGET /search/VinayakGupta HTTP/1.1[0m" 401 -
+2021-03-17 00:06:35,472 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 00:06:35] "[37mGET /search/VinayakGupta HTTP/1.1[0m" 200 -
+2021-03-17 00:06:47,736 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 00:06:47] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 00:15:00,041 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:15:00,128 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:25:38,061 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:25:38,154 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:29:34,866 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:29:34,951 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:31:43,811 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:31:43,883 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:31:52,539 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:31:53,135 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:31:53] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 00:31:53,136 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-17 00:31:53,138 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:31:53] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 00:31:53,164 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:31:53] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:31:58,285 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:31:58,782 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 00:31:58] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:31:58,783 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:31:58,786 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 00:31:58] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 00:31:58,803 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:31:58] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:31:59,779 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:31:59,783 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 00:31:59] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-17 00:31:59,784 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/ HTTP/1.1" 404 232
+2021-03-17 00:31:59,788 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 00:31:59] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 00:31:59,810 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 00:31:59] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:36:41,390 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:36:41,463 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:37:36,850 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:37:36,931 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:37:42,631 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:37:42] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:37:49,343 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:37:49,346 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 00:37:49] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 00:37:49,347 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-17 00:37:49,349 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:37:49] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 00:37:49,359 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:37:49] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:41:25,632 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:41:25,708 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:41:29,778 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:41:29] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:41:33,575 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:41:33,578 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 00:41:33] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:41:33,579 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:41:33,583 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:41:33] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:41:52,830 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:41:52,890 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:41:56,972 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:41:56,977 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:41:56] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 00:41:56,978 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 00:41:56,990 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:41:56] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:42:03,381 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:42:03,385 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:42:03] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 00:42:03,386 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 00:42:03,387 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:42:03] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:42:54,801 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:42:54,877 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:43:00,094 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:43:00,097 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:43:00] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:43:00,098 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:43:00,114 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:43:00] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:43:19,590 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:43:19,662 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:43:24,143 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:43:24,146 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:43:24] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:43:24,147 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:43:24,161 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:43:24] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:48:43,949 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:48:44,028 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:48:51,151 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:48:51,154 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:48:51] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:48:51,155 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:48:51,171 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:48:51] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:48:54,860 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:48:54,864 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:48:54] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:48:54,865 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:48:54,875 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:48:54] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:51:40,815 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:51:40,891 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:51:46,339 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:51:46,342 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:51:46] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:51:46,343 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:51:46,367 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:51:46] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:51:49,717 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:51:49,721 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:51:49] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:51:49,723 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:51:49,729 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:51:49] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:52:40,782 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:52:40,874 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:52:45,246 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:52:45,250 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:52:45] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:52:45,251 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:52:45,276 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:52:45] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:52:48,550 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:52:48,560 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:52:48] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:52:48,563 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:52:48,580 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:52:48] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:54:44,831 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:54:44,898 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:55:32,920 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:55:32,990 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:55:37,910 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:55:38,200 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:55:38] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:55:38,201 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:55:38,214 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:55:38] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:55:41,370 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:55:41,978 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:55:41] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:55:41,979 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:55:41,986 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:55:41] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:55:52,800 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:55:53,386 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 00:55:53] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 00:55:53,387 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-17 00:55:53,392 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 00:55:53] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:56:28,135 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:56:28,208 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:56:33,859 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:56:34,165 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:56:34] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 00:56:34,166 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 401 19
+2021-03-17 00:56:34,179 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:56:34] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:56:36,969 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:56:37,551 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 00:56:37] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:56:37,551 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:56:37,559 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 00:56:37] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:57:12,223 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:57:12,469 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:57:12] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:57:12,470 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:57:12,483 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:57:12] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:57:33,345 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:57:33,405 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:57:37,750 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:57:38,011 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:57:38] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:57:38,012 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:57:38,025 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:57:38] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:58:15,923 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:58:15,982 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:58:22,116 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:58:22,123 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:58:22] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 00:58:22,125 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 00:58:22,146 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:58:22] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 00:59:43,907 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 00:59:43,976 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 00:59:51,392 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 00:59:51,395 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 00:59:51] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 00:59:51,396 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 00:59:51,417 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 00:59:51] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:00:49,796 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:00:49,868 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:00:54,483 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:00:54,488 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:00:54] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:00:54,489 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:00:54,519 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:00:54] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:00:57,932 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:00:57,936 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:00:57] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:00:57,937 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:00:57,941 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:00:57] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:05:20,389 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:05:20,463 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:05:24,019 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:05:24,027 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:05:24] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:05:24,028 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:05:24,049 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:05:24] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:05:27,010 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:05:27] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:05:28,364 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:05:28] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:05:31,681 INFO assignment Thread-7 : Admin deleted an employee with id = 9
+2021-03-17 01:05:31,682 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:05:31] "[32mGET /employees/delete/9 HTTP/1.1[0m" 302 -
+2021-03-17 01:05:31,691 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:05:31] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:05:34,923 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:05:34] "[37mGET /employees/edit/8 HTTP/1.1[0m" 200 -
+2021-03-17 01:05:40,098 INFO assignment Thread-10 : Admin edited an employee with id = 8
+2021-03-17 01:05:40,102 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:05:40] "[32mPOST /employees/edit/8 HTTP/1.1[0m" 302 -
+2021-03-17 01:05:40,127 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:05:40] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:05:43,660 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:05:43] "[37mGET /employees/edit/8 HTTP/1.1[0m" 200 -
+2021-03-17 01:05:47,912 INFO assignment Thread-13 : Admin edited an employee with id = 8
+2021-03-17 01:05:47,914 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:05:47] "[32mPOST /employees/edit/8 HTTP/1.1[0m" 302 -
+2021-03-17 01:05:47,925 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:05:47] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:06:11,784 DEBUG urllib3.connectionpool Thread-15 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:06:11,790 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 01:06:11] "[37mGET /search/Ayush%20Maheshwari HTTP/1.1[0m" 200 -
+2021-03-17 01:06:11,790 DEBUG urllib3.connectionpool Thread-15 : http://127.0.0.1:5000 "GET /search/Ayush%20Maheshwari HTTP/1.1" 200 285
+2021-03-17 01:06:11,792 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 01:06:11] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:06:15,899 INFO assignment Thread-16 : Current User was logged out 
+2021-03-17 01:06:15,910 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 01:06:15] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-17 01:06:15,924 INFO werkzeug Thread-18 : 127.0.0.1 - - [17/Mar/2021 01:06:15] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 01:06:17,949 INFO werkzeug Thread-19 : 127.0.0.1 - - [17/Mar/2021 01:06:17] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:06:25,659 INFO werkzeug Thread-20 : 127.0.0.1 - - [17/Mar/2021 01:06:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 01:06:25,673 INFO werkzeug Thread-21 : 127.0.0.1 - - [17/Mar/2021 01:06:25] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:06:27,303 INFO werkzeug Thread-22 : 127.0.0.1 - - [17/Mar/2021 01:06:27] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-17 01:06:29,469 INFO assignment Thread-23 : Vinayak updated profile
+2021-03-17 01:06:29,471 INFO werkzeug Thread-23 : 127.0.0.1 - - [17/Mar/2021 01:06:29] "[32mPOST /account HTTP/1.1[0m" 302 -
+2021-03-17 01:06:29,480 INFO werkzeug Thread-24 : 127.0.0.1 - - [17/Mar/2021 01:06:29] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-17 01:06:33,277 INFO assignment Thread-25 : Vinayaka updated profile
+2021-03-17 01:06:33,279 INFO werkzeug Thread-25 : 127.0.0.1 - - [17/Mar/2021 01:06:33] "[32mPOST /account HTTP/1.1[0m" 302 -
+2021-03-17 01:06:33,293 INFO werkzeug Thread-26 : 127.0.0.1 - - [17/Mar/2021 01:06:33] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-17 01:06:37,147 INFO assignment Thread-27 : Vinayak updated profile
+2021-03-17 01:06:37,149 INFO werkzeug Thread-27 : 127.0.0.1 - - [17/Mar/2021 01:06:37] "[32mPOST /account HTTP/1.1[0m" 302 -
+2021-03-17 01:06:37,158 INFO werkzeug Thread-28 : 127.0.0.1 - - [17/Mar/2021 01:06:37] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-17 01:06:43,575 INFO werkzeug Thread-29 : 127.0.0.1 - - [17/Mar/2021 01:06:43] "[37mGET /change_password HTTP/1.1[0m" 200 -
+2021-03-17 01:06:44,948 INFO werkzeug Thread-30 : 127.0.0.1 - - [17/Mar/2021 01:06:44] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:06:50,100 INFO assignment Thread-31 : Current User was logged out 
+2021-03-17 01:06:50,114 INFO werkzeug Thread-31 : 127.0.0.1 - - [17/Mar/2021 01:06:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-17 01:06:50,124 INFO werkzeug Thread-32 : 127.0.0.1 - - [17/Mar/2021 01:06:50] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 01:11:54,361 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:11:54,429 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:11:57,596 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:11:57] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 01:11:59,566 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:11:59] "[37mGET /register HTTP/1.1[0m" 200 -
+2021-03-17 01:12:27,056 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:12:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2021-03-17 01:12:27,074 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:12:27] "[37mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:12:27,076 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:12:27] "[37mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:12:27,077 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:12:27] "[37mGET /register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:12:27,133 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:12:27] "[37mGET /register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:12:27,150 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:12:27] "[37mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:12:27,165 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:12:27] "[37mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:13:37,795 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:13:37,875 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:13:40,227 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:13:40] "[37mGET /register HTTP/1.1[0m" 200 -
+2021-03-17 01:13:41,855 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:13:41] "[37mGET /register HTTP/1.1[0m" 200 -
+2021-03-17 01:14:05,976 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:14:05] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2021-03-17 01:14:05,997 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:14:05] "[37mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:14:05,999 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:14:05] "[37mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:14:05,999 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:14:05] "[37mGET /register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:14:06,053 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:14:06] "[37mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:14:06,059 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:14:06] "[37mGET /register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:14:06,070 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:14:06] "[37mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:14:32,527 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:14:32,601 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:14:37,625 INFO assignment Thread-3 : New employee registered with name Vinayak Gupta
+2021-03-17 01:14:37,627 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:14:37] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-03-17 01:14:37,645 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:14:37] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:14:40,921 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:14:40] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:14:48,423 INFO assignment Thread-6 : Admin login into the software 
+2021-03-17 01:14:48,425 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:14:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 01:14:48,439 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:14:48] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:14:49,932 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:14:49] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:14:51,639 INFO assignment Thread-9 : Admin deleted an employee with id = 9
+2021-03-17 01:14:51,643 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:14:51] "[32mGET /employees/delete/9 HTTP/1.1[0m" 302 -
+2021-03-17 01:14:51,665 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:14:51] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:14:53,921 INFO assignment Thread-11 : Admin deleted an employee with id = 8
+2021-03-17 01:14:53,924 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:14:53] "[32mGET /employees/delete/8 HTTP/1.1[0m" 302 -
+2021-03-17 01:14:53,937 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:14:53] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:14:57,651 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:14:57] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:15:01,768 INFO assignment Thread-14 : Current User was logged out 
+2021-03-17 01:15:01,776 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:15:01] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-17 01:15:01,790 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 01:15:01] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 01:15:24,354 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 01:15:24] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 01:15:26,077 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 01:15:26] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:24:14,443 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:24:14,551 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:24:43,134 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\__init__.py', reloading
+2021-03-17 01:24:43,324 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:24:53,483 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:24:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 01:24:53,816 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:24:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 01:24:56,369 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:24:56] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:25:02,973 INFO assignment Thread-6 : Admin login into the software 
+2021-03-17 01:25:02,976 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:25:02] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 01:25:02,992 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:25:02] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:25:05,315 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:25:05] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:25:09,211 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:25:09,221 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:25:09] "[33mGET /search/Alwar HTTP/1.1[0m" 404 -
+2021-03-17 01:25:09,223 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 404 232
+2021-03-17 01:25:09,240 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:25:09] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:25:15,493 DEBUG urllib3.connectionpool Thread-10 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:25:15,502 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:25:15] "[33mGET /search/Alwar HTTP/1.1[0m" 404 -
+2021-03-17 01:25:15,505 DEBUG urllib3.connectionpool Thread-10 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 404 232
+2021-03-17 01:25:15,519 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:25:15] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:25:44,730 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\__init__.py', reloading
+2021-03-17 01:25:44,902 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:25:50,840 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:25:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 01:25:53,430 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:25:53] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:26:02,954 INFO assignment Thread-5 : Admin login into the software 
+2021-03-17 01:26:02,958 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:26:02] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 01:26:02,974 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:26:02] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:26:05,054 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:26:05] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:26:08,835 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:26:08,858 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:26:08] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:26:08,860 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:26:08,923 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:26:08] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:26:12,075 INFO assignment Thread-9 : Current User was logged out 
+2021-03-17 01:26:12,089 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:26:12] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-17 01:26:12,110 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:26:12] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 01:34:56,348 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:34:56] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 01:34:59,453 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:34:59] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:35:05,236 INFO assignment Thread-5 : Admin login into the software 
+2021-03-17 01:35:05,240 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:35:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 01:35:05,255 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:35:05] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:35:07,851 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:35:07] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:35:12,294 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:35:12,300 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:35:12] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:35:12,300 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:35:12,314 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:35:12] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:35:17,554 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:35:17,559 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:35:17] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:35:17,559 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:35:17,562 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:35:17] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:36:41,549 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:36:41,612 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:38:18,112 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:38:18,170 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:39:19,267 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:39:19,331 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:39:24,230 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:39:24,234 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:39:24] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:39:24,235 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:39:24,253 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:39:24] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:39:24,274 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:39:24] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:39:30,047 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:39:30,053 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:39:30] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:39:30,054 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:39:30,057 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:39:30] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:39:30,066 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:39:30] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:39:33,518 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:39:33,523 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:39:33] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:39:33,523 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:39:33,526 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:39:33] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:39:57,681 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:39:57,741 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:40:02,971 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:40:02,974 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:40:02] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:40:02,974 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:40:02,976 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:40:02] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:40:02,996 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:40:02] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:40:15,652 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:40:15] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:40:19,547 DEBUG urllib3.connectionpool Thread-7 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:40:19,550 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:40:19] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:40:19,550 DEBUG urllib3.connectionpool Thread-7 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:40:19,553 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:40:19] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:40:19,562 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:40:19] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:40:54,515 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:40:54] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:40:55,532 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:40:55] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:40:58,600 DEBUG urllib3.connectionpool Thread-12 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:40:58,603 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:40:58] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:40:58,604 DEBUG urllib3.connectionpool Thread-12 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:40:58,607 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:40:58] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:40:58,615 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:40:58] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:42:40,272 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:42:40,331 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:42:43,017 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:42:43] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:42:45,491 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:42:45] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:42:49,616 DEBUG urllib3.connectionpool Thread-5 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:42:49,619 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:42:49] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:42:49,620 DEBUG urllib3.connectionpool Thread-5 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 401 19
+2021-03-17 01:42:49,622 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:42:49] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:42:49,630 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:42:49] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:42:53,022 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:42:53,025 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:42:53] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:42:53,025 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:42:53,027 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:42:53] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:42:53,036 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:42:53] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:42:59,051 DEBUG urllib3.connectionpool Thread-11 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:42:59,054 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:42:59] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:42:59,056 DEBUG urllib3.connectionpool Thread-11 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:42:59,058 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:42:59] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:42:59,069 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:42:59] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:43:02,034 DEBUG urllib3.connectionpool Thread-14 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:43:02,036 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 01:43:02] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 01:43:02,038 DEBUG urllib3.connectionpool Thread-14 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 01:43:02,040 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:43:02] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:43:02,049 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 01:43:02] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:43:36,056 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:43:36,121 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:43:38,350 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:43:38] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:43:41,845 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:43:41,850 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:43:41] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:43:41,850 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:43:41,863 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:43:41] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:43:45,134 DEBUG urllib3.connectionpool Thread-5 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:43:45,139 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:43:45] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:43:45,139 DEBUG urllib3.connectionpool Thread-5 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:43:45,143 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:43:45] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:43:45,151 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:43:45] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:44:08,353 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:44:08] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 01:44:20,939 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:44:20] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:44:34,747 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:44:34] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:45:00,788 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:45:00,852 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:45:04,879 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:45:04] "[32mGET /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:45:04,913 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:45:04] "[37mGET /login?next=%2Femployees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:06,761 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:45:06] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:45:13,944 INFO assignment Thread-6 : Admin login into the software 
+2021-03-17 01:45:13,945 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:45:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 01:45:13,953 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:45:13] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:45:15,310 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:45:15] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:18,480 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:45:18,485 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:45:18] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:45:18,486 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:45:18,499 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:45:18] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:21,820 DEBUG urllib3.connectionpool Thread-10 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:45:21,825 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:45:21] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:45:21,826 DEBUG urllib3.connectionpool Thread-10 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:45:21,830 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:45:21] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:25,747 DEBUG urllib3.connectionpool Thread-12 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:45:25,751 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 01:45:25] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:45:25,752 DEBUG urllib3.connectionpool Thread-12 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:45:25,755 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:45:25] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:31,819 DEBUG urllib3.connectionpool Thread-14 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:45:31,825 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 01:45:31] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:45:31,825 DEBUG urllib3.connectionpool Thread-14 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:45:31,829 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:45:31] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:34,457 DEBUG urllib3.connectionpool Thread-16 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:45:34,462 INFO werkzeug Thread-19 : 127.0.0.1 - - [17/Mar/2021 01:45:34] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:45:34,462 DEBUG urllib3.connectionpool Thread-16 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:45:34,466 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 01:45:34] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:38,356 DEBUG urllib3.connectionpool Thread-18 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:45:38,362 INFO werkzeug Thread-21 : 127.0.0.1 - - [17/Mar/2021 01:45:38] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:45:38,362 DEBUG urllib3.connectionpool Thread-18 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:45:38,366 INFO werkzeug Thread-18 : 127.0.0.1 - - [17/Mar/2021 01:45:38] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:45:42,272 DEBUG urllib3.connectionpool Thread-20 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:45:42,280 INFO werkzeug Thread-23 : 127.0.0.1 - - [17/Mar/2021 01:45:42] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:45:42,280 DEBUG urllib3.connectionpool Thread-20 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:45:42,284 INFO werkzeug Thread-20 : 127.0.0.1 - - [17/Mar/2021 01:45:42] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:46:20,429 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:46:20,501 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:46:28,557 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:46:28,562 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:46:28] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:46:28,563 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:46:28,578 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:46:28] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:46:28,596 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:46:28] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:46:32,381 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:46:32,386 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:46:32] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:46:32,387 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:46:32,390 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:46:32] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:46:32,400 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:46:32] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:46:35,686 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:46:35,690 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:46:35] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:46:35,691 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:46:35,692 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:46:35] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:46:39,765 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:46:39] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:46:54,093 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:46:54] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:16,330 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:48:16,393 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:48:18,724 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:48:18] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:20,190 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:48:20] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:20,364 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:48:20] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:20,525 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:48:20] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:20,724 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:48:20] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:20,854 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:48:20] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:21,041 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:48:21] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:21,205 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:48:21] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:21,449 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:48:21] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:26,201 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:48:26] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:40,251 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:48:40] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:48:41,212 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:48:41] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:49:51,959 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:49:52,016 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:49:58,950 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:49:58,955 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:49:58] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:49:58,955 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:49:58,972 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:49:58] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:50:01,658 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:50:01,662 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:50:01] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:50:01,662 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:50:01,664 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:50:01] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:50:05,543 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:50:05,548 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:50:05] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 01:50:05,550 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/Vinayak%20Gupta HTTP/1.1" 200 537
+2021-03-17 01:50:05,552 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:50:05] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:50:11,373 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:50:11,378 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:50:11] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:50:11,379 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:50:11,382 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:50:11] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:50:11,403 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:50:11] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:50:15,652 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:50:15] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:50:16,471 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:50:16] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:50:16,653 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:50:16] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:50:16,828 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 01:50:16] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:50:17,057 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 01:50:17] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:50:24,362 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 01:50:24] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:50:36,167 INFO werkzeug Thread-18 : 127.0.0.1 - - [17/Mar/2021 01:50:36] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 01:52:03,310 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:52:03,378 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:52:06,595 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:52:06] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:52:09,763 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:52:09,769 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:52:09] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:52:09,771 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:52:09,782 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:52:09] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:52:12,610 DEBUG urllib3.connectionpool Thread-5 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:52:12,615 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:52:12] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:52:12,615 DEBUG urllib3.connectionpool Thread-5 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:52:12,618 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:52:12] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:52:12,627 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:52:12] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:52:16,339 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:52:16,344 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:52:16] "[37mGET /search/Chandni%20Chowk,%20Delhi HTTP/1.1[0m" 200 -
+2021-03-17 01:52:16,345 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/Chandni%20Chowk,%20Delhi HTTP/1.1" 200 264
+2021-03-17 01:52:16,346 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:52:16] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:52:24,438 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:52:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 01:52:28,210 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:52:28] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:52:46,243 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:52:46] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:53:41,945 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:53:42,016 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:53:45,474 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:53:45] "[35m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 500 -
+2021-03-17 01:53:45,497 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:53:45] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:53:45,497 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:53:45] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:53:45,500 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:53:45] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:53:45,573 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:53:45] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:53:45,597 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:53:45] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:53:45,613 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:53:45] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:01,806 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:54:01,871 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:54:04,470 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:54:04] "[35m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 500 -
+2021-03-17 01:54:04,482 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:54:04] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:54:04,484 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:54:04] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:04,485 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:54:04] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:04,510 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:54:04] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:54:04,526 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:54:04] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:04,545 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:54:04] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:20,708 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:54:20] "[35m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 500 -
+2021-03-17 01:54:20,725 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:54:20] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:54:20,728 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:54:20] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:20,728 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:54:20] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:20,754 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:54:20] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:54:20,772 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 01:54:20] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:20,784 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 01:54:20] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,424 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[35m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 500 -
+2021-03-17 01:54:21,448 INFO werkzeug Thread-19 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,449 INFO werkzeug Thread-18 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,451 INFO werkzeug Thread-20 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,476 INFO werkzeug Thread-21 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,492 INFO werkzeug Thread-22 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,507 INFO werkzeug Thread-23 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,634 INFO werkzeug Thread-24 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[35m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 500 -
+2021-03-17 01:54:21,657 INFO werkzeug Thread-25 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,660 INFO werkzeug Thread-26 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,661 INFO werkzeug Thread-27 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,689 INFO werkzeug Thread-28 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,704 INFO werkzeug Thread-29 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:21,720 INFO werkzeug Thread-30 : 127.0.0.1 - - [17/Mar/2021 01:54:21] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:54:27,167 INFO werkzeug Thread-31 : 127.0.0.1 - - [17/Mar/2021 01:54:27] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 01:54:33,123 INFO werkzeug Thread-32 : 127.0.0.1 - - [17/Mar/2021 01:54:33] "[35m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 500 -
+2021-03-17 01:54:33,138 INFO werkzeug Thread-33 : 127.0.0.1 - - [17/Mar/2021 01:54:33] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-17 01:54:33,139 INFO werkzeug Thread-34 : 127.0.0.1 - - [17/Mar/2021 01:54:33] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:33,139 INFO werkzeug Thread-35 : 127.0.0.1 - - [17/Mar/2021 01:54:33] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-17 01:54:36,668 INFO werkzeug Thread-36 : 127.0.0.1 - - [17/Mar/2021 01:54:36] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-17 01:54:36,687 INFO werkzeug Thread-37 : 127.0.0.1 - - [17/Mar/2021 01:54:36] "[37mGET /search/Vinayak%20Gupta?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-17 01:55:56,951 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 01:55:57,023 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 01:56:00,579 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 01:56:00] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 01:56:15,051 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 01:56:15] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 01:56:19,792 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 01:56:19] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:56:19,822 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 01:56:19] "[37mGET /login?next=%2Femployees HTTP/1.1[0m" 200 -
+2021-03-17 01:56:22,560 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 01:56:22] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 01:56:33,585 INFO assignment Thread-8 : Admin login into the software 
+2021-03-17 01:56:33,586 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 01:56:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 01:56:33,597 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 01:56:33] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 01:56:35,854 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 01:56:35] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:56:39,467 DEBUG urllib3.connectionpool Thread-11 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:56:39,474 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 01:56:39] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:56:39,475 DEBUG urllib3.connectionpool Thread-11 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 01:56:39,488 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 01:56:39] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 01:56:42,083 DEBUG urllib3.connectionpool Thread-12 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 01:56:42,088 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 01:56:42] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 01:56:42,089 DEBUG urllib3.connectionpool Thread-12 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 01:56:42,092 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 01:56:42] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 01:56:42,100 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 01:56:42] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:06:17,522 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:06:17] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 09:06:17,742 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:06:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-03-17 09:06:25,060 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:06:25] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 09:06:33,282 INFO assignment Thread-6 : Admin login into the software 
+2021-03-17 09:06:33,288 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:06:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 09:06:33,305 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:06:33] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 09:07:00,248 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:07:00] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:07:06,841 DEBUG urllib3.connectionpool Thread-9 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:07:06,858 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 09:07:06] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:07:06,858 DEBUG urllib3.connectionpool Thread-9 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 09:07:06,914 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 09:07:06] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:07:12,960 DEBUG urllib3.connectionpool Thread-10 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:07:12,977 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 09:07:12] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:07:12,978 DEBUG urllib3.connectionpool Thread-10 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 09:07:12,989 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 09:07:12] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 09:07:13,005 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 09:07:13] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:07:22,104 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 09:07:22] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:07:47,645 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 09:07:47] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 09:07:48,560 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 09:07:48] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 09:08:06,333 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 09:08:06] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 09:08:19,021 INFO werkzeug Thread-18 : 127.0.0.1 - - [17/Mar/2021 09:08:19] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 09:08:29,961 INFO werkzeug Thread-19 : 127.0.0.1 - - [17/Mar/2021 09:08:29] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 09:08:35,491 INFO werkzeug Thread-20 : 127.0.0.1 - - [17/Mar/2021 09:08:35] "[33mGET /search/ HTTP/1.1[0m" 404 -
+2021-03-17 09:08:41,014 INFO werkzeug Thread-21 : 127.0.0.1 - - [17/Mar/2021 09:08:41] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 09:08:48,577 INFO werkzeug Thread-22 : 127.0.0.1 - - [17/Mar/2021 09:08:48] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 09:09:31,056 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:09:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 09:09:37,739 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:09:37] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 09:17:35,468 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:17:35,537 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:18:07,157 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:18:07,242 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:18:20,890 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:18:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 09:18:22,774 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:18:22] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 09:18:35,680 INFO assignment Thread-5 : Admin login into the software 
+2021-03-17 09:18:35,680 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:18:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 09:18:35,690 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:18:35] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 09:18:38,422 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:18:38] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:18:47,261 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:18:47,280 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 09:18:47] "[35m[1mGET /search/Alwar HTTP/1.1[0m" 500 -
+2021-03-17 09:18:47,281 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 500 None
+2021-03-17 09:18:47,283 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:18:47] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 09:18:47,308 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 09:18:47] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:19:02,909 DEBUG urllib3.connectionpool Thread-11 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:19:02,919 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 09:19:02] "[35m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 500 -
+2021-03-17 09:19:02,920 DEBUG urllib3.connectionpool Thread-11 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 500 None
+2021-03-17 09:19:02,923 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 09:19:02] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 09:19:02,944 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 09:19:02] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:19:27,589 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:19:27,674 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:19:32,457 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:19:32] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:19:36,431 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:19:36,453 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:19:36] "[35m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 500 -
+2021-03-17 09:19:36,454 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 500 None
+2021-03-17 09:19:36,457 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:19:36] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:19:41,248 DEBUG urllib3.connectionpool Thread-5 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:19:41,258 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:19:41] "[35m[1mGET /search/Alwar HTTP/1.1[0m" 500 -
+2021-03-17 09:19:41,259 DEBUG urllib3.connectionpool Thread-5 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 500 None
+2021-03-17 09:19:41,262 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:19:41] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:21:40,718 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:21:40,794 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:21:45,907 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:21:46,165 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:21:46] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:21:46,166 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:21:46,180 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:21:46] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:21:49,278 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:21:49,842 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:21:49] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:21:49,849 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 401 19
+2021-03-17 09:21:49,855 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:21:49] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:21:52,569 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:21:53,137 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 09:21:53] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:21:53,138 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:21:53,142 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:21:53] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:24:39,525 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:24:39,596 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:24:45,615 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:24:45,895 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:24:45] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:24:45,899 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:24:45,913 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:24:45] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:24:48,483 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:24:49,054 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:24:49] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:24:49,054 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:24:49,060 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:24:49] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:24:53,205 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:24:53,744 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 09:24:53] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:24:53,752 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 401 19
+2021-03-17 09:24:53,758 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:24:53] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:25:19,104 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:25:19,162 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:25:21,109 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:25:21] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 09:25:23,681 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:25:23] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 09:25:30,341 INFO assignment Thread-5 : Admin login into the software 
+2021-03-17 09:25:30,342 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:25:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 09:25:30,351 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:25:30] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 09:25:32,570 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:25:32] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:25:35,869 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:25:37,054 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 09:25:37] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:25:37,057 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:25:37,062 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:25:37] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:26:33,311 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:26:33,378 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:26:38,632 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:26:39,124 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:26:39] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:26:39,128 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:26:39,143 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:26:39] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:26:43,150 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:26:44,326 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:26:44] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:26:44,326 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:26:44,339 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:26:44] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:35:34,261 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:35:34,332 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:35:41,149 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:35:41,646 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:35:41] "[31m[1mGET /search/Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:35:41,647 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 401 19
+2021-03-17 09:35:41,660 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:35:41] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:35:41,679 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:35:41] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2021-03-17 09:35:44,966 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:35:46,137 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:35:46] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:35:46,138 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 401 19
+2021-03-17 09:35:46,142 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:35:46] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:37:03,127 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:37:03,190 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:37:11,832 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:37:12,335 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:37:12] "[31m[1mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 401 -
+2021-03-17 09:37:12,336 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 401 19
+2021-03-17 09:37:12,350 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:37:12] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:37:51,035 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:37:51,110 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:37:55,323 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:37:55,331 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:37:55] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:37:55,332 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 09:37:55,362 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:37:55] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:37:59,053 DEBUG urllib3.connectionpool Thread-4 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:37:59,069 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:37:59] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:37:59,070 DEBUG urllib3.connectionpool Thread-4 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 09:37:59,073 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:37:59] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:38:48,235 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:38:48,253 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 09:38:48] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:38:48,257 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 09:38:48,268 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:38:48] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:38:52,229 DEBUG urllib3.connectionpool Thread-8 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:38:52,231 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 09:38:52] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:38:52,233 DEBUG urllib3.connectionpool Thread-8 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 09:38:52,236 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:38:52] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:39:25,630 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:39:25,713 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:39:30,900 DEBUG urllib3.connectionpool Thread-3 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:39:30,914 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:39:30] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:39:30,916 DEBUG urllib3.connectionpool Thread-3 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 09:39:30,946 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:39:30] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 09:39:30,964 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:39:30] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:39:34,741 DEBUG urllib3.connectionpool Thread-6 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:39:34,749 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:39:34] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:39:34,750 DEBUG urllib3.connectionpool Thread-6 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 09:39:34,750 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:39:34] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:39:38,018 DEBUG urllib3.connectionpool Thread-7 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 09:39:38,032 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 09:39:38] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 09:39:38,040 DEBUG urllib3.connectionpool Thread-7 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 09:39:38,051 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 09:39:38] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 09:39:38,081 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 09:39:38] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:39:52,219 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 09:39:52] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 09:39:53,183 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 09:39:53] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 09:40:06,133 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 09:40:06] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 09:40:53,875 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 09:40:53] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 09:51:10,337 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 09:51:10,402 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 09:51:17,451 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 09:51:17] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 09:51:17,472 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 09:51:17] "[36mGET /static/intro-bg.jpg HTTP/1.1[0m" 304 -
+2021-03-17 09:51:21,456 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 09:51:21] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 09:51:26,390 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 09:51:26] "[37mGET /register HTTP/1.1[0m" 200 -
+2021-03-17 09:52:32,181 INFO assignment Thread-8 : New employee registered with name Devesh Yadav
+2021-03-17 09:52:32,182 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 09:52:32] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-03-17 09:52:32,214 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 09:52:32] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 09:52:41,632 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 09:52:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 09:52:41,647 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 09:52:41] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+2021-03-17 09:52:43,525 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 09:52:43] "[37mGET /account HTTP/1.1[0m" 200 -
+2021-03-17 09:52:56,450 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 09:52:56] "[37mGET /change_password HTTP/1.1[0m" 200 -
+2021-03-17 09:52:57,933 INFO assignment Thread-14 : Current User was logged out 
+2021-03-17 09:52:57,944 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 09:52:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-17 09:52:57,958 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 09:52:57] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 09:53:01,094 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 09:53:01] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 09:53:07,607 INFO assignment Thread-17 : Admin login into the software 
+2021-03-17 09:53:07,607 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 09:53:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 09:53:07,624 INFO werkzeug Thread-18 : 127.0.0.1 - - [17/Mar/2021 09:53:07] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 09:53:10,540 INFO werkzeug Thread-19 : 127.0.0.1 - - [17/Mar/2021 09:53:10] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:53:56,587 INFO werkzeug Thread-21 : 127.0.0.1 - - [17/Mar/2021 09:53:56] "[32mGET /employees HTTP/1.1[0m" 302 -
+2021-03-17 09:53:56,611 INFO werkzeug Thread-22 : 127.0.0.1 - - [17/Mar/2021 09:53:56] "[37mGET /login?next=%2Femployees HTTP/1.1[0m" 200 -
+2021-03-17 09:53:56,851 INFO werkzeug Thread-23 : 127.0.0.1 - - [17/Mar/2021 09:53:56] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2021-03-17 09:53:56,985 INFO werkzeug Thread-24 : 127.0.0.1 - - [17/Mar/2021 09:53:56] "[36mGET /static/intro-bg.jpg HTTP/1.1[0m" 304 -
+2021-03-17 09:53:57,315 INFO werkzeug Thread-25 : 127.0.0.1 - - [17/Mar/2021 09:53:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-03-17 09:56:06,436 INFO werkzeug Thread-27 : 127.0.0.1 - - [17/Mar/2021 09:56:06] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 09:56:20,537 INFO werkzeug Thread-28 : 127.0.0.1 - - [17/Mar/2021 09:56:20] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 10:00:41,811 INFO assignment Thread-30 : Current User was logged out 
+2021-03-17 10:00:41,820 INFO werkzeug Thread-30 : 127.0.0.1 - - [17/Mar/2021 10:00:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-03-17 10:00:41,831 INFO werkzeug Thread-31 : 127.0.0.1 - - [17/Mar/2021 10:00:41] "[37mGET /home HTTP/1.1[0m" 200 -
+2021-03-17 10:00:44,355 INFO werkzeug Thread-32 : 127.0.0.1 - - [17/Mar/2021 10:00:44] "[37mGET /register HTTP/1.1[0m" 200 -
+2021-03-17 10:02:25,894 INFO werkzeug Thread-34 : 127.0.0.1 - - [17/Mar/2021 10:02:25] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 10:02:40,012 INFO assignment Thread-35 : Admin login into the software 
+2021-03-17 10:02:40,012 INFO werkzeug Thread-35 : 127.0.0.1 - - [17/Mar/2021 10:02:40] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 10:02:40,020 INFO werkzeug Thread-36 : 127.0.0.1 - - [17/Mar/2021 10:02:40] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 10:02:45,701 INFO werkzeug Thread-37 : 127.0.0.1 - - [17/Mar/2021 10:02:45] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 10:02:49,079 DEBUG urllib3.connectionpool Thread-38 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 10:02:49,100 INFO werkzeug Thread-40 : 127.0.0.1 - - [17/Mar/2021 10:02:49] "[37mGET /search/Alwar HTTP/1.1[0m" 200 -
+2021-03-17 10:02:49,102 DEBUG urllib3.connectionpool Thread-38 : http://127.0.0.1:5000 "GET /search/Alwar HTTP/1.1" 200 235
+2021-03-17 10:02:49,103 INFO assignment Thread-38 : Admin searched an Employee
+2021-03-17 10:02:49,148 INFO werkzeug Thread-38 : 127.0.0.1 - - [17/Mar/2021 10:02:49] "[37mPOST /employees HTTP/1.1[0m" 200 -
+2021-03-17 10:02:52,461 DEBUG urllib3.connectionpool Thread-39 : Starting new HTTP connection (1): 127.0.0.1:5000
+2021-03-17 10:02:52,474 INFO werkzeug Thread-42 : 127.0.0.1 - - [17/Mar/2021 10:02:52] "[37mGET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1[0m" 200 -
+2021-03-17 10:02:52,476 DEBUG urllib3.connectionpool Thread-39 : http://127.0.0.1:5000 "GET /search/D-53,%20Shivaji%20Park,%20Alwar HTTP/1.1" 200 34
+2021-03-17 10:02:52,478 INFO assignment Thread-39 : Admin searched an Employee
+2021-03-17 10:02:52,484 INFO werkzeug Thread-39 : 127.0.0.1 - - [17/Mar/2021 10:02:52] "[32mPOST /employees HTTP/1.1[0m" 302 -
+2021-03-17 10:02:52,498 INFO werkzeug Thread-41 : 127.0.0.1 - - [17/Mar/2021 10:02:52] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 10:03:00,578 INFO werkzeug Thread-43 : 127.0.0.1 - - [17/Mar/2021 10:03:00] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 10:04:32,623 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\vinayakgupta\\PycharmProjects\\flask_assignment\\assignment\\routes.py', reloading
+2021-03-17 10:04:32,699 INFO werkzeug MainThread :  * Restarting with stat
+2021-03-17 10:04:35,289 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 10:04:35] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:04:36,547 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 10:04:36] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:04:42,460 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 10:04:42] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 10:04:50,698 INFO assignment Thread-6 : Admin login into the software 
+2021-03-17 10:04:50,699 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 10:04:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 10:04:50,707 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 10:04:50] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 10:04:53,447 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 10:04:53] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 10:16:10,976 INFO werkzeug Thread-10 : 127.0.0.1 - - [17/Mar/2021 10:16:10] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:16:12,648 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 10:16:12] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:16:14,583 INFO werkzeug Thread-12 : 127.0.0.1 - - [17/Mar/2021 10:16:14] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 10:16:21,900 INFO assignment Thread-13 : Admin login into the software 
+2021-03-17 10:16:21,900 INFO werkzeug Thread-13 : 127.0.0.1 - - [17/Mar/2021 10:16:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 10:16:21,914 INFO werkzeug Thread-14 : 127.0.0.1 - - [17/Mar/2021 10:16:21] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 10:16:23,495 INFO werkzeug Thread-15 : 127.0.0.1 - - [17/Mar/2021 10:16:23] "[37mGET /employees HTTP/1.1[0m" 200 -
+2021-03-17 10:16:36,092 INFO werkzeug Thread-16 : 127.0.0.1 - - [17/Mar/2021 10:16:36] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 10:16:37,807 INFO werkzeug Thread-17 : 127.0.0.1 - - [17/Mar/2021 10:16:37] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:17:02,396 INFO werkzeug Thread-18 : 127.0.0.1 - - [17/Mar/2021 10:17:02] "[37mGET /login HTTP/1.1[0m" 200 -
+2021-03-17 10:17:11,568 INFO assignment Thread-19 : Admin login into the software 
+2021-03-17 10:17:11,573 INFO werkzeug Thread-19 : 127.0.0.1 - - [17/Mar/2021 10:17:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-03-17 10:17:11,585 INFO werkzeug Thread-20 : 127.0.0.1 - - [17/Mar/2021 10:17:11] "[37mGET /admin_dashboard HTTP/1.1[0m" 200 -
+2021-03-17 10:17:16,697 INFO werkzeug Thread-21 : 127.0.0.1 - - [17/Mar/2021 10:17:16] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:17:19,937 INFO werkzeug Thread-22 : 127.0.0.1 - - [17/Mar/2021 10:17:19] "[32mGET /employees HTTP/1.1[0m" 302 -
+2021-03-17 10:17:19,958 INFO werkzeug Thread-23 : 127.0.0.1 - - [17/Mar/2021 10:17:19] "[37mGET /login?next=%2Femployees HTTP/1.1[0m" 200 -
+2021-03-17 10:18:55,921 INFO werkzeug Thread-24 : 127.0.0.1 - - [17/Mar/2021 10:18:55] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 10:19:10,899 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 10:19:10] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:19:17,618 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 10:19:17] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 10:19:37,658 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 10:19:37] "[37mGET /search/Ayush%20Maheshwari HTTP/1.1[0m" 200 -
+2021-03-17 10:20:41,508 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 10:20:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:20:49,454 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 10:20:49] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 10:21:11,317 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 10:21:11] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 10:21:26,693 INFO werkzeug Thread-3 : 127.0.0.1 - - [17/Mar/2021 10:21:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-03-17 10:21:26,803 INFO werkzeug Thread-4 : 127.0.0.1 - - [17/Mar/2021 10:21:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-03-17 10:21:31,550 INFO werkzeug Thread-5 : 127.0.0.1 - - [17/Mar/2021 10:21:31] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 10:21:56,526 INFO werkzeug Thread-6 : 127.0.0.1 - - [17/Mar/2021 10:21:56] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 10:22:22,760 INFO werkzeug Thread-7 : 127.0.0.1 - - [17/Mar/2021 10:22:22] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 10:23:07,755 INFO werkzeug Thread-8 : 127.0.0.1 - - [17/Mar/2021 10:23:07] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -
+2021-03-17 10:23:39,754 INFO werkzeug Thread-9 : 127.0.0.1 - - [17/Mar/2021 10:23:39] "[37mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 200 -
+2021-03-17 10:24:44,618 INFO werkzeug Thread-11 : 127.0.0.1 - - [17/Mar/2021 10:24:44] "[31m[1mGET /search/Vinayak%20Gupta HTTP/1.1[0m" 401 -

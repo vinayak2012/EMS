@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+        <div class="container-fluid">
+            <div class="row">
+                    <div class="intro-message">
+                        <h1>Admin Dashboard</h1>
+                        <h3>Manage your Employees</h3>
+                        <br>
+                        <br>
+                        <a href="{{ url_for('list_employees') }}" id="db" class="btn btn-outline-primary">Employee Master Screen</a>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+{% endblock content %}

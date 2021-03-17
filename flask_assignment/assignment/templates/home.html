@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="container-fluid no-padding">
+        <div class="row">
+                <div class="intro-message">
+                    <h3>Welcome to Employee Management System</h3>
+                    </ul>
+                    <br>
+                    <br>
+                    <a href="{{ url_for('register') }}" id="out" class="btn btn-outline-primary">New User? Let's Get Started!</a>
+                    <br>
+                    <br>
+                    <br>
+                    <a href="{{ url_for('login') }}" id="in" class="btn btn-outline-success">Admin/User Login</a>
+                </div>
+        </div>
+    </div>
+{% endblock content %}

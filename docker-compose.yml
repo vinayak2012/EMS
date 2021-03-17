@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  flask_assignment:
+    restart: always
+    build:
+      context: flask_assignment
+      dockerfile: Dockerfile.dockerfile
+    expose:
+      - "5000"
+    ports:
+      - "5000:5000"
+
+
